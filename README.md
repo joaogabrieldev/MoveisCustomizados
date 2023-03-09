@@ -1,4 +1,4 @@
-<p align="center"><img src="readme/image1.jpg" width="150px"></p>
+<p align="center"><img src="readme/image1.jpg" width="200"></p>
 
 <div align="center">
 	<h1 align="center">Móveis Customizados</h1>
